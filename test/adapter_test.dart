@@ -1,4 +1,4 @@
-import '../lib/memoryadapter.dart';
+import '../lib/memory_adapter.dart';
 import 'package:activerecord/activerecord.dart';
 import 'package:unittest/unittest.dart';
 import 'dart:async' show Future;

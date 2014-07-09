@@ -1,6 +1,9 @@
-name: MemoryAdapter
+name: memory_adapter
 description: A memory adapter for the dart active record implementation. Enables faster testing and development.
+author: Axel Christ <adracus@gmail.com>
+homepage: https://github.com/Adracus/MemoryAdapter
+version: 0.0.1
 dependencies:
-  activerecord: 2.3.0
+  activerecord: ">=2.3.0 <3.0.0"
 dev_dependencies:
   unittest: any
