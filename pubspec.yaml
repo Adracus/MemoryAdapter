@@ -1,0 +1,6 @@
+name: MemoryAdapter
+description: A memory adapter for the dart active record implementation. Enables faster testing and development.
+dependencies:
+  activerecord: 2.3.0
+dev_dependencies:
+  unittest: any
